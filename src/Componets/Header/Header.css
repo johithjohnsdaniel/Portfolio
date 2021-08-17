@@ -1,0 +1,55 @@
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+
+   
+}
+
+.menus-header{
+
+    display:flex;
+   
+    flex: 1;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.mobile-menu{
+    display: none;
+}
+
+.logo-portfolio{
+
+    color: #111;
+    font-size: 34px;
+    font-weight: 700;
+
+}
+
+.menu-icon{
+
+font-size: 24px;
+
+
+
+}
+
+
+
+@media only screen and (max-width:720px)
+{
+
+    .web-menu{
+        display: none;
+    }
+
+    .mobile-menu{
+        display: flex;
+    }
+    
+
+}
+

@@ -1,0 +1,11 @@
+.footer-body{
+
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    margin-top: 1rem;
+    font-size: 18px;
+    font-style: italic;
+  font-weight: 400;
+
+}

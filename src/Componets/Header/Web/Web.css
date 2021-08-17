@@ -1,0 +1,29 @@
+.web-options{
+
+    display: flex;
+    align-items: center;
+
+
+}
+
+.web-options a{
+
+    outline: none;
+    text-decoration: none;
+    color: #111;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+
+.web-option{
+
+
+    margin-right: 1rem;
+
+}
+.web-option:last-child{
+
+    margin-right: 0px;
+
+}
