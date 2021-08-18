@@ -4,7 +4,7 @@ import Div from '../../Common/Div'
 
 function About2() {
 
-    let data="I'm Johit John S Daniel . Graduated From CMS College Kottayam In Bachelor Of Computer Application . When It Comes To My  Personal skill I'm A Team Player And Quick Learner And My Techincal Skills Include Proficiency In Web Development And Posses Google's Certification As A Beginner In Data Analysis.  "
+    let data="I'm Johith John S Daniel . Graduated From CMS College Kottayam In Bachelor Of Computer Application . When It Comes To My  Personal skill I'm A Team Player And Quick Learner And My Techincal Skills Include Proficiency In Web Development And Posses Google's Certification As A Beginner In Data Analysis.  "
 
     return (
         <div className='about'>
